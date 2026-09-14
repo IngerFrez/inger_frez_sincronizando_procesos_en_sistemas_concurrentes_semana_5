@@ -43,11 +43,5 @@ La consola muestra qué repartidor retira y entrega cada pedido. El orden puede 
 Todos los pedidos han sido entregados correctamente
 ```
 
-## Commits sugeridos
 
-Para mantener un historial ordenado en GitHub:
 
-1. `Crea clases Pedido y EstadoPedido`
-2. `Implementa zona de carga sincronizada`
-3. `Agrega repartidores concurrentes`
-4. `Completa simulación y documentación`
